@@ -1,15 +1,15 @@
 ## Project Summary 
-Nama Yatri Data Analysis: Optimizing Ride-Sharing Operations in Bangalore and Mysore.
+Namma Yatri Data Analysis: Optimizing Ride-Sharing Operations in Bangalore and Mysore.
 
 ## Dashboard
 
 ![WhatsApp Image 2024-04-25 at 11 49 34 PM](https://github.com/Anukriti204/Nama_Yatri_Data_Analysis/assets/159823977/aac4b2fb-6cb5-456f-9528-7a0bb6d2ca2f)
   
 ## Overview
-Nama Yatri, a ride-sharing service similar to Ola and Uber, operates in Bangalore and Mysore. This data analysis project aims to leverage SQL and Power BI to analyse trip details, booking patterns, and fare information to enhance operational efficiency and customer experience.
+Namma Yatri, a ride-sharing service similar to Ola and Uber, operates in Bangalore and Mysore. This data analysis project aims to leverage SQL and Power BI to analyse trip details, booking patterns, and fare information to enhance operational efficiency and customer experience.
 
 ## Key Objectives  
-1. Data Collection and Preparation: Gather trip details and fare data from Nama Yatri's databases and preprocess it for analysis.
+1. Data Collection and Preparation: Gather trip details and fare data from Namma Yatri's databases and preprocess it for analysis.
 2. SQL Analysis: Utilize SQL queries to extract insights from trip details, including search behaviour, trip completion status, and payment methods.
 3. Power BI Visualization: Create interactive dashboards to visualize booking trends, revenue patterns, and user behaviours. Highlight - peak booking hours, popular destinations, and driver earnings.
 
